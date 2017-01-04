@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_280197f926322aaa48f21637d9ba0f42aaa5d071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_5bf612985f0770c274099036a628f3267e81808b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_289fc8ae9f8aaeaffa60f05eeb1da226e35420e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7dfd1ae4bec09b2cb0879033f2f8d2e0acf23d7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_776da8188c0a2987a4b2b9fd8d635501125e5361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_3e2433f83be7257e90cf312dc6b2793bd143568d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bc69095c21103dc2c06e10cdedd0e957cebe42a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ea63acaa27f7482666928316cbbf404feec1c70">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1bd366669bf45d68218b0729cda0fde56c44880a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_38a1a9c0139db0d96625aa83cb39eab770b48e18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c69cbe33d6aa710345e3e8614fee58eec2fa4d33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_37903defe505556b26008595b115c4ce5cd7a359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_34a10a2cd8e1d3ce947839c9f3521678b1093e94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_09a926602c7ea413e34c098ca0bff1900df54fc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a1856c682ca277676c99f85d181f62c2317a29a">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_670f4fb096551c1499ad1272c087f6619ccae640\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_14c46d5c2cf15475e8db319f432b4ce1c0728709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_f9a163e6c6e320ee76eec7f168dde77b11347555\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gitt\HuShuComputerControl\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\gitt\HuShuComputerControl\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_5f6bad6918be85a819172729e1fc12cf27137ad6\classes.dex" />
+    </item>
+
+</items>

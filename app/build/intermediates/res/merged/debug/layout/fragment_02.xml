@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout style="@style/home_item_style">
+
+        <ImageView
+            android:id="@+id/fragment02_icon01"
+            android:src='@drawable/fragment02_icon_01'
+            style="@style/fragment02_icon_style" />
+
+        <TextView
+            android:text="温 度 23℃"
+            android:id="@+id/textView"
+            android:shadowColor="@color/fragment02_item_01_shadow_color"
+            style="@style/fragment02_info_style"
+            android:layout_toRightOf="@id/fragment02_icon01"
+            />
+
+        <ImageView
+            android:src='@drawable/fragment02_state_02'
+            style="@style/fragment02_state_style" />
+    </RelativeLayout>
+
+    <RelativeLayout style="@style/home_item_style">
+
+        <ImageView
+            android:id="@+id/fragment02_icon02"
+            android:src='@drawable/fragment02_icon_02'
+            style="@style/fragment02_icon_style" />
+
+        <ImageView
+            android:src='@drawable/fragment02_state_02'
+            style="@style/fragment02_state_style" />
+
+        <TextView
+            android:text="湿 度 60％"
+            android:shadowColor="@color/fragment02_item_02_shadow_color"
+            style="@style/fragment02_info_style"
+            android:id="@+id/textView2"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/fragment02_icon02"
+            android:layout_toEndOf="@+id/fragment02_icon02" />
+    </RelativeLayout>
+    <RelativeLayout style="@style/home_item_style">
+
+        <ImageView
+            android:id="@+id/fragment02_icon03"
+            android:src='@drawable/fragment02_icon_03'
+            style="@style/fragment02_icon_style" />
+
+        <ImageView
+            android:src='@drawable/fragment02_state_02'
+            style="@style/fragment02_state_style" />
+
+        <TextView
+            android:text="光照度 3348"
+            android:shadowColor="@color/fragment02_item_03_shadow_color"
+            style="@style/fragment02_info_style"
+            android:id="@+id/textView3"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/fragment02_icon03"
+            android:layout_toEndOf="@+id/fragment02_icon03" />
+    </RelativeLayout>
+    <RelativeLayout style="@style/home_item_style"
+        android:id="@+id/roil_temp_item"
+        >
+
+        <ImageView
+            android:id="@+id/fragment02_icon04"
+            android:src='@drawable/fragment02_icon_04'
+            style="@style/fragment02_icon_style" />
+
+        <ImageView
+            android:src='@drawable/fragment02_state_02'
+            style="@style/fragment02_state_style" />
+
+        <TextView
+            android:text="土壤湿度 40％"
+            android:shadowColor="@color/fragment02_item_04_shadow_color"
+            style="@style/fragment02_info_style"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/fragment02_icon04"
+            android:layout_toEndOf="@+id/fragment02_icon04"
+            android:id="@+id/textView4" />
+    </RelativeLayout>
+    <RelativeLayout style="@style/home_item_style">
+
+        <ImageView
+            android:id="@+id/fragment02_icon05"
+            android:src='@drawable/fragment02_icon_05'
+            style="@style/fragment02_icon_style" />
+
+        <ImageView
+            android:src='@drawable/fragment02_state_02'
+            style="@style/fragment02_state_style" />
+
+        <TextView
+            android:text="二氧化碳 335"
+            android:shadowColor="@color/fragment02_item_05_shadow_color"
+            style="@style/fragment02_info_style"
+            android:id="@+id/textView5"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/fragment02_icon05"
+            android:layout_toEndOf="@+id/fragment02_icon05" />
+    </RelativeLayout>
+</LinearLayout>

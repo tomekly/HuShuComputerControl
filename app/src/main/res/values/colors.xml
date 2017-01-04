@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fragment_bg">#0f113e</color>
+    <color name="fragment_02_bg_bottom">#0f0f0f</color>
+    <color name="homepage_bg_top">#02053f</color>
+    <color name="homepage_bg_bottom">#000000</color>
+    <color name="homepage_item_bg">#000000</color>
+    <color name="transparent_color">#00000000</color>
+    <color name="fragment02_item_bg_start">#50000000</color>
+    <color name="fragment02_item_bg_end">#00000000</color>
+    <color name="fragment02_item_01_shadow_color">#ff9600</color>
+    <color name="fragment02_item_02_shadow_color">#10e2ef</color>
+    <color name="fragment02_item_03_shadow_color">#ffd200</color>
+    <color name="fragment02_item_04_shadow_color">#d8300e</color>
+    <color name="fragment02_item_05_shadow_color">#1b4bff</color>
+</resources>

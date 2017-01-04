@@ -1,0 +1,7 @@
+#Wed Jan 04 11:22:48 CST 2017
+base.0=D\:\\gitt\\HuShuComputerControl\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_670f4fb096551c1499ad1272c087f6619ccae640
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\gitt\\HuShuComputerControl\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1bd366669bf45d68218b0729cda0fde56c44880a\\classes.dex
+base.1=D\:\\gitt\\HuShuComputerControl\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1bd366669bf45d68218b0729cda0fde56c44880a
+file.0=D\:\\gitt\\HuShuComputerControl\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_670f4fb096551c1499ad1272c087f6619ccae640\\classes.dex
